@@ -1,0 +1,38 @@
+.header{ 
+ border : 1px solid #dedede;
+ padding : 10px; 
+ margin : 10px; 
+ background : #9E9AFB; 
+ }
+
+body{
+	padding : 10px; 
+	margin : 10px; 
+	border:1px solid #6A6464; 
+	background:#FFFFFF;
+	border-radius:10px;
+	font-family: 'Verdana',arial,sans-serif;
+	font-weight: 300;
+	text-align: left;
+}
+
+button{
+	background: #68E3F9;
+	color: width;
+	border: none;
+	padding: 10px;
+	border-radius: 8px;
+	font-family: 'Lato';
+	margin: 5px;
+	cursor: pointer;
+	outline: none;
+}
+
+button:hover{
+	background: #0EBAA0;
+}
+
+h1,h2,h3{
+  text-align: center;
+  color: #111314;
+}
